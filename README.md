@@ -1,4 +1,4 @@
-# URL-shortner
+# URL-shortener
 Built a simple URL shortener using Python and Flask
 #
 <img width="483" alt="image" src="https://user-images.githubusercontent.com/88205480/169330303-7793fca0-76fd-4ca5-97e8-e1ed9f8fe4f6.png">
