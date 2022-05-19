@@ -28,3 +28,9 @@ But if the short version doesn't exist new code will be generated.
   Example :- lets say a short URL "XYZ" is given
   
   <img width="483" alt="image" src="https://user-images.githubusercontent.com/88205480/169337103-170d7117-e12d-4442-95c2-f21038a29e1c.png">
+
+# To setup our application we need:-
+ 1) Flask 
+  - conda install -c anaconda flask
+ 2) Flask -sqlalchemy
+  - conda install -c conda-forge flask-sqlalchemy
