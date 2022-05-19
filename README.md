@@ -17,7 +17,8 @@ But if the short version doesn't exist new code will be generated.
   -And if they weren't used new generated set of 3 letters will be our "NEW SHORT URL".
     Example:- XYZ will correspond to the long URL sent by the user.
   so the certain long URL is stored inside our database which will be returned back to our user.
-<img width="470" alt="image" src="https://user-images.githubusercontent.com/88205480/169335386-ce48f6c3-150b-4f22-8044-fb23272620f3.png">
+  <img width="488" alt="image" src="https://user-images.githubusercontent.com/88205480/169337578-d12f7543-82ba-40fb-904a-a4e9274d993d.png">
+
 
 # CONDITION 2: 
  
